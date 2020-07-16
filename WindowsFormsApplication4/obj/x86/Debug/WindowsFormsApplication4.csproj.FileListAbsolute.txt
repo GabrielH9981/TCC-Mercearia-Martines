@@ -1,0 +1,138 @@
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\manager\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+H:\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Manager\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Biel\Desktop\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Biel\Desktop\BACKUP FUNCIONOU EEEEEEEEEEEEEEEEE\TCC Mercearia casa\TCC ULTIMA ATT\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.login.resources
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\TCC Mercearia Martines CERTO\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
